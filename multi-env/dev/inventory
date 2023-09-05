@@ -1,2 +1,5 @@
 [mongodb]
 172.31.37.156
+
+[mongodb:vars]
+NAME=DEV-SERVER
